@@ -1,4 +1,4 @@
-This project was tutorial with [Codecademy](https://www.codecademy.com).
+This project was tutorial with [Codecademy: Create a Front-End App with React](https://www.codecademy.com/learn/paths/build-web-apps-with-react) Course.
 
 ## Available Scripts
 
